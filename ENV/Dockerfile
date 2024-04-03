@@ -1,0 +1,4 @@
+FROM almalinux:8
+ENV NAME=NARASIMHA \
+    AGE=30 \
+    ADDRESS=HYDERBAD

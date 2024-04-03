@@ -2,3 +2,4 @@ FROM almalinux:8
 LABEL COURSE=AWSDevOPS \
       PERSON=NARASIMHA \
       DURATION=100HRS
+      
